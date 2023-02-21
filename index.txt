@@ -1,0 +1,6 @@
+menu
+articulo
+fotos
+pie de pagina
+otro
+modificar
